@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFC.unity"
+    guid: 0e5e3a6f2a06d89459caf5415af9d836
+  - enabled: 1
+    path: Assets/Scenes/Prototip.unity
+    guid: 0b3961cf8ec119a488abb596dbae1c34
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: e8e9948b0f9a93c44986c32e32928f18
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
